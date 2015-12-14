@@ -201,6 +201,21 @@ $lob: 'Lobster', Rockwell,"Courier Bold",Courier,Georgia,Times,"Times New Roman"
 	    }
     }
     
+    .jackrabbit{
+	    margin: 0 auto;
+	    display: block;
+	    max-width: 300px;
+	    text-align: center;
+	    position: relative;
+	    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	    color: #fff;
+	    a{
+		    color: #fff;
+		    &:hover{
+			    text-decoration: underline;
+		    }
+	    }
+    }
 
 /* != PLACEHOLDER ATTRIBUTE STYLES = input or textarea - placeholder="whatever" ===== */
 /*
